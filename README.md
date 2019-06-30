@@ -1,4 +1,4 @@
-# test
+# test with file
 Using Java language implement a method getLikes which must take in input array, containing the names of people who like an item. The method must return the text as shown in the examples:
 • getLikes [] // must be "no likes for this post"
 • getLikes ["Peter"] // must be "Peter likes this post"
